@@ -14,8 +14,7 @@
             ],
             "defines": [],
             "cppStandard": "c++14",
-            "intelliSenseMode": "linux-clang-x64",
-            "configurationProvider": "ms-vscode.makefile-tools"
+            "intelliSenseMode": "linux-clang-x64"
         }
     ],
     "version": 4
